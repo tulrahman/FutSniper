@@ -1,7 +1,7 @@
 ﻿{
   "WantedPlayers": {
-    "Allan Saint-Maximin": 1000,
-    "Milner": 400
+    "Allan Saint-Maximin": 1,
+    "Milner": 4
   },
   "DelaySecondsBetweenAttempts": 1
 }
